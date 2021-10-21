@@ -1,6 +1,10 @@
 com/pastcampus/javaoop/logic/JavaSort.java
  com.pastcampus.javaoop.logic.JavaSort
-com/pastcampus/javaoop/logic/BubbleSort.java
- com.pastcampus.javaoop.logic.BubbleSort
+com/pastcampus/javaoop/service/SortService.java
+ com.pastcampus.javaoop.service.SortService
 com/pastcampus/javaoop/Main.java
  com.pastcampus.javaoop.Main
+com/pastcampus/javaoop/logic/BubbleSort.java
+ com.pastcampus.javaoop.logic.BubbleSort
+com/pastcampus/javaoop/logic/Sort.java
+ com.pastcampus.javaoop.logic.Sort
